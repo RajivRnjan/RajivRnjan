@@ -62,7 +62,7 @@
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
   	   <li><b>OS:</b> Windows 10 </li>
-	     <li><b>Laptop: </b> Dell inspiron 15 3000 Series</li>
+	     <li><b>Laptop: </b> HP intel core i3</li>
   	   <li><b>Browser: </b> Chrome Web Browser</li>
 	     <li><b>Code Editor:</b> VSCode </li>
 	     <li><b>To Stay Updated:</b> Linkedin </li>
