@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rajiv-ranjan-5b6733227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="RajivRnjan" /></a>
-<a href="https://github.com/RajivRnjan" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="RajivRnjan" /></a>
+<a href="https://RajivRnjan.github.io/portfolio" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="RajivRnjan" /></a>
 <a href="mailto:rajivforyu@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="RajivRnjan" /></a>
 
 
